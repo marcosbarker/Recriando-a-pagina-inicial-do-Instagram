@@ -117,6 +117,7 @@ body{
     height: 3rem;
     width: 10rem;
     background-size: cover;
+    border-radius: 8px;
 }
 
 .app-download:nth-child(1){
