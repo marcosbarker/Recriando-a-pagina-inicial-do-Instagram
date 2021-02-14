@@ -12,7 +12,7 @@
 
 ## Contato
 
-:e-mail:[Email](pgomes@faeterj-petropolis.edu.br)
+:e-mail:[Email](mailto:pgomes@faeterj-petropolis.edu.br)
 
 :link:[Linkedin](https://www.linkedin.com/in/marcos-paulo-marques-corr%C3%AAa-gomes-2794271b0/)
 
